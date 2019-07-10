@@ -1,0 +1,30 @@
+{
+  "name": "backhoe",
+  "version": "1.0.0",
+  "description": "Imports Dozer files into VNC viewer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "backhoe": "./bin/run.js"
+  },
+  "preferGlobal": true,
+  "author": "Logandev_",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganMD/backhoe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LoganMD/backhoe/issues"
+  },
+  "homepage": "https://github.com/LoganMD/backhoe#readme"
+}

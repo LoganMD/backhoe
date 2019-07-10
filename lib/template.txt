@@ -1,0 +1,2 @@
+Host=ip-template
+Uuid=uuid-template
