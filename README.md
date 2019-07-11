@@ -1,6 +1,6 @@
 # Backhoe
 
-Backhoe is a command-line tool used in conjunction with [OpenVNCScraper](https://github.com/JordanCodingGod/OpenVNCScraper). It takes the scraped IPs/passwords and loads them into [VNC Viewer](https://www.realvnc.com/connect/download/viewer).
+Backhoe is a command-line tool used in conjunction with [OpenVNCScraper](https://github.com/JordanCodingGod/OpenVNCScraper) and [VNCDozer](https://github.com/JrdBrd/VNCDozer). It takes the scraped IPs/passwords and loads them into [VNC Viewer](https://www.realvnc.com/connect/download/viewer).
 
 ## Installation
 
