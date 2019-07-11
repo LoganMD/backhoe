@@ -1,2 +1,3 @@
 Host=ip-template
 Uuid=uuid-template
+SingleSignOn=0
