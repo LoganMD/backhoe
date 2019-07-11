@@ -4,7 +4,7 @@ Backhoe is a command-line tool used in conjunction with [OpenVNCScraper](https:/
 
 ## Installation
 
-To install Backhoe, you need [https://nodejs.org](Node.js) installed.
+To install Backhoe, you need [Node.js](https://nodejs.org) installed.
 
 Simply run `npm install LoganMD/backhoe -g`
 
